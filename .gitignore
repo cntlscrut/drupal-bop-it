@@ -1,0 +1,2 @@
+# ignore the composer vendor directory
+/vendor/*
