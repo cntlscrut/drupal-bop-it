@@ -1,0 +1,15 @@
+_core:
+  default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
+langcode: en
+uuid: 7e59b97f-2210-4177-949c-b4b8d61dc7f9
+name: 'Drupal Bop-it'
+mail: admin@example.com
+slogan: 'bop it, twist it, spin it'
+page:
+  403: ''
+  404: ''
+  front: /front-page
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
+mail_notification: null

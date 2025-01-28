@@ -1,0 +1,18 @@
+uuid: d8fcc5e5-3c1e-428c-a3ba-15c28cab209f
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'News Article'
+type: news_article
+description: 'Basic content type for a news article containing images, dates, bylines, article summary, main article and taxonomy.'
+help: null
+new_revision: true
+preview_mode: 1
+display_submitted: true

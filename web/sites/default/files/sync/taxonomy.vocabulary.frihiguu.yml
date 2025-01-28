@@ -1,0 +1,9 @@
+uuid: f99ce4b7-ba14-434a-8961-a889eae87cd5
+langcode: und
+status: true
+dependencies: {  }
+name: frihiguu
+vid: frihiguu
+description: 'Description of frihiguu'
+weight: 3
+new_revision: false
