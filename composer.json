@@ -24,6 +24,7 @@
         "drupal/devel": "^5.3",
         "drupal/search_api": "^1.37",
         "drupal/search_api_solr": "^4.3",
+        "drupal/simple_sitemap": "^4.2",
         "drush/drush": "^13.3"
     },
     "conflict": {
